@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"com.org.Javadoc.operations","l":"Add"},{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"com.org.Javadoc","l":"JavadocApplication"}];updateSearchResults();
